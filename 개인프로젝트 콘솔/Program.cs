@@ -38,7 +38,7 @@ namespace 개인프로젝트_콘솔
                 Attack = 10;
                 Defence = 5;
                 Health = 100;
-                Gold = 4500;
+                Gold = 1500;
             }
 
         }
